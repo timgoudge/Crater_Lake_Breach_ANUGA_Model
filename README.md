@@ -1,4 +1,5 @@
 Uploaded: Dec. 8, 2022
+
 Uploaded by: Tim Goudge (tgoudge@jsg.utexas.edu)
 
 This repository contains the model scripts used for Goudge et al. "Assessing Controls on the Incomplete Draining of Martian Open-Basin Lakes". This modeling approach is a modification of the approach initially outlined by Fassett and Goudge (2021, doi: 10.1029/2021JE006979). The original modeling approach scripts are available here: https://github.com/cfassett/ANUGA-erosion.
