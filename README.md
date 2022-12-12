@@ -12,8 +12,13 @@ The code call from the command line (so long as ANUGA is also installed correctl
 
 
 The parameters set on the command line (in order), with values given in the example above, are:
+
 	Lake Radius [m] = 20000
+
 	Lake Depth [m] = 500
+	
 	Topographic Exponent (for basin topography) [unitless] = 2.8
+	
 	Rim Height [m] = 150
+	
 	Regional Slope [unitless] = 0.01
